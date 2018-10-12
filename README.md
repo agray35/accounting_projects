@@ -1,4 +1,4 @@
-# accounting_projects
+# Accounting_projects
 
 ## Introduction
 <p>
