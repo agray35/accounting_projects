@@ -1,4 +1,3 @@
-# Accounting_projects
 
 ## Acounting Cycle Project
 
