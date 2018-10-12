@@ -29,7 +29,8 @@ The enclosed unadjusted TB is provided for Song Enterprises for the year ended 1
 | Balance Sheet	             | 15%              | 
 | Closing Entries	     | 15%              |
 | Post Closing TB	     | 10%              |
-| **Total		     | 100%**           |
+
+**Total		      100%**           
 
 	
 					
