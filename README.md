@@ -21,15 +21,15 @@ The enclosed unadjusted TB is provided for Song Enterprises for the year ended 1
 <p/>
 
 
-| Excel Sheet                 Percent of Grade |
-| -------------------------   ---------------- |
-| Adjusting JEs (5@ 5% each) | 25%             |
-| Adjusted TB	             | 20%             |
-| Income Statement	     | 15%             |
-| Balance Sheet	             | 15%             | 
-| Closing Entries	     | 15%             |
-| Post Closing TB	     | 10%             |
-| **Total		     | 100%**          |
+| Excel Sheet                | Percent of Grade |
+| -------------------------  | ---------------- |
+| Adjusting JEs (5@ 5% each) | 25%              |
+| Adjusted TB	             | 20%              |
+| Income Statement	     | 15%              |
+| Balance Sheet	             | 15%              | 
+| Closing Entries	     | 15%              |
+| Post Closing TB	     | 10%              |
+| **Total		     | 100%**           |
 
 	
 					
